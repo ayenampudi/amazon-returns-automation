@@ -1,0 +1,9 @@
+{
+  "name": "amazon-returns",
+  "version": "0.1.0",
+  "description": "Automate Amazon returns end-to-end: browse orders, submit returns, collect QR codes, and email them for easy drop-off at Whole Foods or UPS.",
+  "author": {
+    "name": "VK Ayenampudi"
+  },
+  "keywords": ["amazon", "returns", "refunds", "qr-codes", "whole-foods", "ups", "shopping"]
+}
